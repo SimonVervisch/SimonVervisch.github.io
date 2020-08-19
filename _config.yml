@@ -31,7 +31,7 @@ date: true
 baseurl: "/marat" # the subpath of your site, e.g. /blog
 url: "http://simonvervisch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: Simon Vervisch
-google_analytics: UA-162783056-1
+#google_analytics: UA-162783056-1
 
 
 #Journal politique impartial, <br>
