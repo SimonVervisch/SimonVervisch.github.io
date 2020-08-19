@@ -7,6 +7,29 @@ I'm a Computer Science student. I do a whole lot in life. One of the things I va
 
 ## My Best Articles
 
+[My Half Year Review: 2020](https://medium.com/@simonvervisch/my-half-year-review-2020-3647e0bb8709) (13 aug 2020) A reflection on the things I've done
+
+[History of Lifting Stones](https://medium.com/@simonvervisch/the-history-of-lifting-stones-1917b124558b) (30 jul 2020) A culture voyage how people used to live.
+
+[Darwin and the Complexity of Nature](https://medium.com/age-of-awareness/darwin-and-the-complexity-of-nature-a046c97e8967?source=friends_link&sk=87519a51d6fca6538728babf92e6d136) (23 jul 2020) An introduction to Darwin, and how nature can spark wonderment
+
+[Recursion: In Layman's Term](https://levelup.gitconnected.com/recursion-in-laymans-terms-32100fe92c79?source=friends_link&sk=79669849c0602c70df3f7f21aa173c71) (25 feb 2020) An intuitive explanation of recursion (technical)
+
+[On Memory](https://medium.com/@simonvervisch/on-memory-89ef87943cd8) (19 feb 2020) The structure of the brain and how well it is.
+
+and many more... If you search well, you'll find them.
+
+# YouTube
+Besides that I have two YouTube channels. [One](https://www.youtube.com/channel/UC6b3v3nbePPfxl8yKGaIEgw) focused on philosophy, where I'm exercising my speaking skills. And [one](https://www.youtube.com/channel/UCzIFsSqzyZwm-YEDBvWlGPg) focused on music, the highest art form made by humans.
+
+
+
+
+
+
+
+
+
 
 ## My favorite books
 * [**The Incerto**](https://www.goodreads.com/series/164555-incerto) by *Nassim Nicholas Taleb*. These books have influenced my on so many levels. Thanks to this book, I appreciate the small more. I've learnt to build redundancy, It made me appreciate organic things more (not only the food).
@@ -24,7 +47,6 @@ I'm a Computer Science student. I do a whole lot in life. One of the things I va
 I've met quite some people on my journey. Here are some of them.
 * [lesscrappylife.com](http://lesscrappylife.com) -- A great website on self-improvement. The maker event built a discord community. 
 * [The Idea Of](https://www.youtube.com/channel/UCJ9ETrebJG7WpXhqqGBrNgg) -- YouTube Channel that has made long-form content on Nassim Taleb. 
-* [Gregory Muller](https://www.gregmuller.net/starthere) -- He's a fiction writer that just finished his first book. He's also learning programming.
 
 All of them are highly interested in the world. 
 
