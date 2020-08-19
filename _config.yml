@@ -18,16 +18,35 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+title: L'ami du peuple
+email: simonvervisch@gmail.com
+description: >
+  Journal impartial, <br>
+  Par Mr. S. Vervisch auteur de l'Offrande a la patrie, <br>
+  du Moniteur et du Plan de Constitution, etc.
+tagline: acta non verba
+location: Bruges, Flandres
+date: true
+baseurl: "/marat" # the subpath of your site, e.g. /blog
+url: "http://simonvervisch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author: Simon Vervisch
+google_analytics: UA-162783056-1
+
+
+#Journal politique impartial, <br>
+#Par Mr. P. Marat auteur de l'Offrande a la patrie, <br>
+#du Moniteur et du Plan de Constitution, etc.
+#title: Your awesome title
+#email: your-email@example.com
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 remote_theme: JohnCoene/marat
