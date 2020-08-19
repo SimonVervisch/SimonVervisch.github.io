@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+permalink: home
 ---
 
 I'm a Computer Science student. I do a whole lot in life. One of the things I value most in life is *Serendipity*.
