@@ -12,4 +12,4 @@ author: Simon Vervisch
 * [**Why We Sleep**](https://en.wikipedia.org/wiki/Why_We_Sleep) by *Matthew Walker*. This book helped me to see that I slept too little. Sleeping well is important. It boosts your learning.
 * [**The Analects**](https://en.wikipedia.org/wiki/Analects) by *Confucius*. The book which East-Asian (China, Vietnam and Japan...) culture is based upon. I agreed with a lot of principles laid out. 
 
-Besides these, I have many more. 
+Besides these, I have many more. If you're interested in this, connect with me on [Goodreads](https://www.goodreads.com/user/show/70474304-simon)
