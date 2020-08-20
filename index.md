@@ -7,34 +7,34 @@ I'm a Computer Science student. I do a whole lot in life. One of the things I va
 
 ## My Best Articles
 
-[My Half Year Review: 2020](https://medium.com/@simonvervisch/my-half-year-review-2020-3647e0bb8709) (13 aug 2020) A reflection on the things I've done
+[✒️My Half Year Review: 2020](https://medium.com/@simonvervisch/my-half-year-review-2020-3647e0bb8709) (13 aug 2020) A reflection on the things I've done
 
-[History of Lifting Stones](https://medium.com/@simonvervisch/the-history-of-lifting-stones-1917b124558b) (30 jul 2020) A culture voyage how people used to live.
+[✒️History of Lifting Stones](https://medium.com/@simonvervisch/the-history-of-lifting-stones-1917b124558b) (30 jul 2020) A culture voyage how people used to live.
 
-[Darwin and the Complexity of Nature](https://medium.com/age-of-awareness/darwin-and-the-complexity-of-nature-a046c97e8967?source=friends_link&sk=87519a51d6fca6538728babf92e6d136) (23 jul 2020) An introduction to Darwin, and how nature can spark wonderment
+[✒️Darwin and the Complexity of Nature](https://medium.com/age-of-awareness/darwin-and-the-complexity-of-nature-a046c97e8967?source=friends_link&sk=87519a51d6fca6538728babf92e6d136) (23 jul 2020) An introduction to Darwin, and how nature can spark wonderment
 
-[Traditional Urbanism](https://medium.com/@simonvervisch/traditional-urbanism-f5837e2fc6da?source=friends_link&sk=f0f7c3c6ebf17464d07cb10b51cc3347) (20 april 2020) My praise for the ancient building styles and architectures. 
+[✒️Traditional Urbanism](https://medium.com/@simonvervisch/traditional-urbanism-f5837e2fc6da?source=friends_link&sk=f0f7c3c6ebf17464d07cb10b51cc3347) (20 april 2020) My praise for the ancient building styles and architectures. 
 
-[Recursion: In Layman's Term](https://levelup.gitconnected.com/recursion-in-laymans-terms-32100fe92c79?source=friends_link&sk=79669849c0602c70df3f7f21aa173c71) (25 feb 2020) An intuitive explanation of recursion (technical)
+[✒️Recursion: In Layman's Term](https://levelup.gitconnected.com/recursion-in-laymans-terms-32100fe92c79?source=friends_link&sk=79669849c0602c70df3f7f21aa173c71) (25 feb 2020) An intuitive explanation of recursion (technical)
 
-[On Memory](https://medium.com/@simonvervisch/on-memory-89ef87943cd8) (19 feb 2020) The structure of the brain and how well it is.
+[✒️On Memory](https://medium.com/@simonvervisch/on-memory-89ef87943cd8) (19 feb 2020) The structure of the brain and how well it is.
 
-[Why writing is essential](https://medium.com/@simonvervisch/why-writing-is-essential-1-30-a00c92d5d2a3) (6 jul 2019) My first post on why you should write as well.
+[✒️Why writing is essential](https://medium.com/@simonvervisch/why-writing-is-essential-1-30-a00c92d5d2a3) (6 jul 2019) My first post on why you should write as well.
 
 and many more... If you search well, you'll find them.
 
 
 # Other
-Besides that I have two YouTube channels. 
+Besides that I have two YouTube channels 📹. 
 
-* [One](https://www.youtube.com/channel/UC6b3v3nbePPfxl8yKGaIEgw) focused on philosophy, where I'm exercising my speaking skills.  [This video](https://youtu.be/elS-1r_OreM) will give you a good clue what it is about. 
+* [📹One](https://www.youtube.com/channel/UC6b3v3nbePPfxl8yKGaIEgw) focused on philosophy, where I'm exercising my speaking skills.  [This video](https://youtu.be/elS-1r_OreM) will give you a good clue what it is about. 
 
-* And [one](https://www.youtube.com/channel/UCzIFsSqzyZwm-YEDBvWlGPg) focused on music, the highest art form made by humans.
+* And [📹one](https://www.youtube.com/channel/UCzIFsSqzyZwm-YEDBvWlGPg) focused on music, the highest art form made by humans.
 
 <br>
-I'm also very active on [Twitter](https://twitter.com/the_simon_v). I've met many people there, that have given me an abundance of great ideas. 
+I'm also very active on [🦚Twitter](https://twitter.com/the_simon_v). I've met many people there, that have given me an abundance of great ideas. 
 
-[This page](/books) will lead you to my favorite books.
+[This page](/books) will lead you to my favorite books📚.
 
 
 
