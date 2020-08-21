@@ -52,6 +52,8 @@ This site is my little rebellion against flat design. When Apple announced iOS7,
 
 ## Where to find me
 [Medium](https://medium.com/@simonvervisch)
+
 [YouTube](https://www.youtube.com/channel/UC6b3v3nbePPfxl8yKGaIEgw)
+
 [Twitter](https://twitter.com/the_simon_v)
 
