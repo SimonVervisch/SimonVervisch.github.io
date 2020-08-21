@@ -49,3 +49,9 @@ I've met quite some people on my journey. Here are some of them.
 
 ## Why this site
 This site is my little rebellion against flat design. When Apple announced iOS7, it left skeuomorphism, the tactile design. Within this flat design, there isn't a whole lot of wiggle room. In the depths of the internet, I found a theme, based on a newspaper French Revolution Era, L'ami du peuple, by Jean-Paul Murat.
+
+## Where to find me
+[Medium](https://medium.com/@simonvervisch)
+[YouTube](https://www.youtube.com/channel/UC6b3v3nbePPfxl8yKGaIEgw)
+[Twitter](https://twitter.com/the_simon_v)
+
