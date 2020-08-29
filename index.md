@@ -7,6 +7,8 @@ I'm a Computer Science student. I do a whole lot in life. One of the things I va
 
 ## My Best Articles
 
+[✒️My reading Strategy](https://medium.com/@simonvervisch/how-i-started-to-read-again-bd6d7a6f006b) (28 aug 2020) What I do to keep reading. 
+
 [✒️My Half Year Review: 2020](https://medium.com/@simonvervisch/my-half-year-review-2020-3647e0bb8709) (13 aug 2020) A reflection on the things I've done
 
 [✒️History of Lifting Stones](https://medium.com/@simonvervisch/the-history-of-lifting-stones-1917b124558b) (30 jul 2020) A culture voyage how people used to live.
